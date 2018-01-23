@@ -1,0 +1,51 @@
+{
+    "reason": 1,
+    "result": [
+        {
+            "id":1,
+            "title": "测试标题1",
+            "img":"1.jpg",
+            "price":15,
+            "sl":1,
+            "liwu":[
+                {"title":"赠品1"},
+                {"title":"赠品2"}
+            ],
+            "chenk":true
+        },
+        {
+            "id":2,
+            "title": "测试标题2",
+            "img":"2.jpg",
+            "price":58.52,
+            "sl":1,
+            "liwu":[
+                {"title":"赠品1"},
+                {"title":"赠品2"}
+            ],
+            "chenk":true
+        },
+        {
+            "id":3,
+            "title": "测试标题2",
+            "img":"2.jpg",
+            "price":95,
+            "sl":1,
+            "liwu":[
+            ],
+            "chenk":true
+        },
+        {
+            "id":4,
+            "title": "测试标题2",
+            "img":"2.jpg",
+            "price":85,
+            "sl":1,
+            "liwu":[
+                {"title":"赠品1"}
+            ],
+            "chenk":true
+        }
+    ],
+    "error_code": 0
+}
